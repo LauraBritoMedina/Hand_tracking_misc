@@ -22,3 +22,4 @@ wheel==0.37.1
 xz==5.2.5
 zlib==1.2.12
 mediapipe==0.8.9.1
+opencv-python==4.5.5.64
